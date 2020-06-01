@@ -1,11 +1,14 @@
-[user] 
-	name = Jeremiah Torralba
-	email = jeremiahtorralba@gmail.com
-[filter "lfs"]
-	clean = git-lfs clean -- %f
-	smudge = git-lfs smudge -- %f
-	process = git-lfs filter-process
-	required = true
-[filesystem "Oracle Corporation|11.0.7|-1799728215"]
-	timestampResolution = 1002 microseconds
-	minRacyThreshold = 0 nanoseconds
+# Created by https://www.gitignore.io/api/netbeans
+# Edit at https://www.gitignore.io/?templates=netbeans
+
+### NetBeans ###
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# End of https://www.gitignore.io/api/netbeans

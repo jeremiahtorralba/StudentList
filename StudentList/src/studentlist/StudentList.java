@@ -1,14 +1,10 @@
 package studentlist;
-
 import java.util.Scanner;
-
 /**
  * This class is a simple example of creating arrays of objects
- *
  * @author Paul Bonenfant
  */
 public class StudentList {
-
     /**
      * @param args the command line arguments
      */

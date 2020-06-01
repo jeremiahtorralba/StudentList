@@ -1,8 +1,6 @@
 package studentlist;
-
 /**
  * This class represents students in our application
- *
  * @author Paul Bonenfant
  */
 public class Student {
@@ -21,7 +19,5 @@ public class Student {
         this.name = name;
     }
     
-    
-
 }
 
