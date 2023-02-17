@@ -1,2 +1,2 @@
-# StudentList
-Online repo for Student List program - Java classes for schoolwork.
+# StudentList - Software Process Coursework
+Student List program - Java classes
